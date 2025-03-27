@@ -1,0 +1,6 @@
+{
+    "products": [
+      { "id": "1", "title": "a title", "price": 100 ,"image": "https://imageio.forbes.com/specials-images/imageserve/5faad4255239c9448d6c7bcd/Best-Animal-Photos-Contest--Close-Up-Of-baby-monkey/960x0.jpg?format=jpg&width=1440" , "description": "a description" },
+      { "id": "2", "title": "another title", "price": 200 ,"image": "https://img.freepik.com/free-photo/cute-little-monkey-studio_23-2150754573.jpg?semt=ais_hybrid" , "description": "another description"  }
+    ]
+}     
